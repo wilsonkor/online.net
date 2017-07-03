@@ -5,7 +5,7 @@
 $offerid = "774";         // 728:  7欧1t ，   774: 7欧ssd
 $title = "Online-7oSSD";  //微信通知标题
 $desp = "Online 7oSSD";     //微信通知内容
-$key = 'SCU6641T52d189fd61c651c03ba188a41a2280a558c';  //方糖的微信通知的key，自己登录“http://sc.ftqq.com”申请
+$key = 'SCU8357Td51090c1b9ab5d7476f1a09623923369591831c6cc84a';  //方糖的微信通知的key，自己登录“http://sc.ftqq.com”申请
 
 
 
